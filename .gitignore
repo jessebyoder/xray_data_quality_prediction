@@ -1,0 +1,9 @@
+#Ignore PDB lists, files, dataframes
+PDB_depot/
+PDB_list_CSVs/
+dataframe_feather/
+.ipynb_checkpoints/
+
+#Ignore other junk
+Scratch.ipynb
+Untiled.ipynb
